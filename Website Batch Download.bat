@@ -1,6 +1,6 @@
 # the downloadlist.txt should include all the https links you need, one line after another...
 # this tools was collected from https://blog.csdn.net/domo_wang/article/details/107045785
-# double click .bat to start
+# double click .bat to download automatically 
 # 2022.6.4
 
 @ echo off
